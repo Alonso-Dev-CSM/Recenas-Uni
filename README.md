@@ -1,2 +1,6 @@
 # Recenas-Uni
-README para reseñar las distintas comidas que hemos probado a lo largo de la universidad
+## README para reseñar las distintas comidas que hemos probado a lo largo de la universidad
+
+### Tamales Oaxaqueños
+#### Alonso: 
+#### Jhony: 
